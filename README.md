@@ -1,0 +1,2 @@
+# Loyalty
+Loyalty game project
